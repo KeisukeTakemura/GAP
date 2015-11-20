@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.Window;
 
 //testです
+//tuikadetus
 public class TitleActivity extends Activity {
 
     @Override
